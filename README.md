@@ -1,6 +1,8 @@
 # se3050---uee-2021s2_reg_we_11
 se3050---uee-2021s2_reg_we_11 created by GitHub Classroom
 
+Github personal repository : https://github.com/arosh-segar/event-planner.git
+
 Member details: 
 1. Segar. A. J - IT19056630
 2. Sabesan. G - IT19129822
